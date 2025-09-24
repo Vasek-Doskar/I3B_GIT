@@ -8,5 +8,6 @@
         Console.WriteLine("Zadej slovo");
         string slovo = Console.ReadLine();
         Console.WriteLine($"Zadal jsi slovo: {slovo}");
+        // Vyliž si
     }
 }
